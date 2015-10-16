@@ -15,8 +15,8 @@ app_links:
     app_name: Facebook
     package: com.facebook.katana
 isBasedOnUrl: 'https://www.facebook.com/Papillon-Hair-Designs-107239252660842/?notif_t=page_fan'
-datePublished: '2015-10-16T17:57:10.678Z'
-dateModified: '2015-10-16T17:35:10.378Z'
+datePublished: '2015-10-16T17:57:10.845Z'
+dateModified: '2015-10-16T17:34:13.943Z'
 sourcePath: _posts/2015-10-16-papillon-hair-designs-yorba-linda-ca-440-likes-5-talkin.md
 published: true
 inFeed: true
