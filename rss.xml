@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Papillon Hair Designs]]></title>
+        <description><![CDATA[Papillon Hair Designs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 16 Oct 2015 17:58:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Papillon Hair Designs, Yorba Linda, CA. 440 likes · 5 talking about this · 584 were here. We are a Spa, Beauty and Personal Care salon located in the...</p>]]></description>
+            <link>https://www.facebook.com/Papillon-Hair-Designs-107239252660842/?notif_t=page_fan</link>
+            <guid isPermaLink="false">be10b559-4050-4d58-bb84-c6cea1ad49a7</guid>
+            <pubDate>Fri, 16 Oct 2015 17:57:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
