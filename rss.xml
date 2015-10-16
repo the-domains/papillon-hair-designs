@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Papillon Hair Designs]]></title>
+        <description><![CDATA[Papillon Hair Designs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 16 Oct 2015 18:06:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/11951765_996401497077942_8338442367568096237_n.jpg?oh=bddcbbf5d8dcec2bd1608b7cdaef17b6&oe=568CC0E3" alt="" title="">]]></description>
+            <link>undefinedcf1d016c-c546-4b50-9f5b-24c9aa332631/index.html</link>
+            <guid isPermaLink="false">cf1d016c-c546-4b50-9f5b-24c9aa332631</guid>
+            <pubDate>Fri, 16 Oct 2015 18:05:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
