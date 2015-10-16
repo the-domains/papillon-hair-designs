@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Papillon Hair Designs]]></title>
         <description><![CDATA[Papillon Hair Designs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/papillon-hair-designs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Oct 2015 18:06:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 16 Oct 2015 18:15:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/papillon-hair-designs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Check out this before and after by Marliese! Natural Brunette to bright vibrant red!]]></title>
+            <description><![CDATA[<article><h1>Check out this before and after by Marliese! Natural Brunette to bright vibrant red!</h1><img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/11900053_993169184067840_5972445640601263291_n.jpg?oh=a50caf1adb3993fd66703cfadeeabc14&oe=56C6F658"></article>]]></description>
+            <link>https://thegrid.ai/papillon-hair-designs/check-out-this-before-and-after-by-marliese-natural-brunett/index.html</link>
+            <guid isPermaLink="false">5e1675c2-8df3-49e2-92dc-87da9916b8fd</guid>
+            <pubDate>Fri, 16 Oct 2015 18:15:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/11951765_996401497077942_8338442367568096237_n.jpg?oh=bddcbbf5d8dcec2bd1608b7cdaef17b6&oe=568CC0E3" alt="" title="">]]></description>
-            <link>undefinedcf1d016c-c546-4b50-9f5b-24c9aa332631/index.html</link>
+            <link>https://thegrid.ai/papillon-hair-designs/cf1d016c-c546-4b50-9f5b-24c9aa332631/index.html</link>
             <guid isPermaLink="false">cf1d016c-c546-4b50-9f5b-24c9aa332631</guid>
             <pubDate>Fri, 16 Oct 2015 18:05:37 GMT</pubDate>
         </item>
