@@ -23,9 +23,9 @@ color:
     - '#d66e2c'
     - '#f5c221'
   brandStrength: 0.8125
-  lightness: 0.8125
+  lightness: 0.625
   saturation: 0.5
-  rhythmicContrast: 0
+  rhythmicContrast: 0.25
 purpose:
   - name: follow
     item: null
