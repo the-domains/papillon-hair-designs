@@ -24,7 +24,7 @@ color:
     - '#f5c221'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.125
+  saturation: 0.6875
   rhythmicContrast: 0.5
 purpose:
   - name: follow
